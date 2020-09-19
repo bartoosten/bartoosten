@@ -19,18 +19,18 @@ Ask me about, job oppertunities, virtual reality, AI, personal, political, econo
 
 #### Languages
 
-| Languages 	|  	| Frameworks 	|  	|
-|-	|-	|-	|-	|
-| JavaScript 	| ●●●◐○ 	| React 	| ●●●◐○ 	|
-| TypeScript 	| ●●●◐○ 	| React Native 	| ●●●◐○ 	|
-| JSX (JavaScript XML) 	| ●●●◐○ 	| Next.js 	| ●●●◐○ 	|
-| HMTL5 	| ●●●◐○ 	| Expo 	| ●●●◐○ 	|
-| CSS3 	| ●●●◐○ 	| Node.js 	| ●●●◐○ 	|
-| GraphQL 	| ●●●◐○ 	| Express 	| ●●●◐○ 	|
-| Python 	| ●●●◐○ 	| Nest.js 	| ●●●◐○ 	|
-| C# 	| ●●●◐○ 	|  	|  	|
-| Swift 	| ●●●◐○ 	|  	|  	|
-| Java 	| ●●●◐○ 	|  	|  	|
+| Languages 	|  	| Frameworks 	|  	| Libraries 	|  	|
+|-	|-	|-	|-	|-	|-	|
+| JavaScript 	| ●●●◐○ 	| React 	| ●●●◐○ 	| Immer 	| ●●●◐○ 	|
+| TypeScript 	| ●●●◐○ 	| React Native 	| ●●●◐○ 	| Lodash 	| ●●●◐○ 	|
+| JSX (JavaScript XML) 	| ●●●◐○ 	| Next.js 	| ●●●◐○ 	| Beautiful DND 	| ●●●◐○ 	|
+| HMTL5 	| ●●●◐○ 	| Expo 	| ●●●◐○ 	| Draft.js 	| ●●●◐○ 	|
+| CSS3 	| ●●●◐○ 	| Node.js 	| ●●●◐○ 	| Moment.js 	| ●●●◐○ 	|
+| GraphQL 	| ●●●◐○ 	| Express 	| ●●●◐○ 	| Date-fns 	| ●●●◐○ 	|
+| Python 	| ●●●◐○ 	| Nest.js 	| ●●●◐○ 	|  	|  	|
+| C# 	| ●●●◐○ 	|  	|  	|  	|  	|
+| Swift 	| ●●●◐○ 	|  	|  	|  	|  	|
+| Java 	| ●●●◐○ 	|  	|  	|  	|  	|
 
 <!--
 **bartoosten/bartoosten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
