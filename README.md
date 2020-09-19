@@ -7,7 +7,7 @@
 - 💬 Ask me about, job oppertunities, virtual reality, AI, personal, political, economic, aesthetic, psychological, moral, ethical, and social consequences of technology.
 - 📫 How to reach me: https://twitter.com/bartoosten or https://www.linkedin.com/in/bart-oosten-516b9169/
 - 😄 Pronouns: He/Him/His/Himself
-- ⚡ Fun fact: I've a dog named Sushi 🍣
+- ⚡ Fun fact: I have a dog named Sushi 🐶🍣
 
 
 <!--
