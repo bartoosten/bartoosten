@@ -6,7 +6,7 @@ I’m looking to collaborate on projects and ideas that would help people be mor
 
 Ask me about, job oppertunities, virtual reality, AI, personal, political, economic, aesthetic, psychological, moral, ethical, and social consequences of technology.
 
-###How to reach me 📫
+### How to reach me 📫
 
 - Twitter: https://twitter.com/bartoosten 
 - LinkedIn: https://www.linkedin.com/in/bart-oosten-516b9169/
