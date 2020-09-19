@@ -19,9 +19,15 @@ Ask me about, job oppertunities, virtual reality, AI, personal, political, econo
 
 #### Languages
 
-| Tables      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
+| Languages 	|  	| Frameworks 	|  	|
+|-	|-	|-	|-	|
+| JavaScript 	|  	| React 	|  	|
+| TypeScript 	|  	|  	|  	|
+|  	|  	|  	|  	|
+|  	|  	|  	|  	|
+|  	|  	|  	|  	|
+|  	|  	|  	|  	|
+|  	|  	|  	|  	|
 
 - JavaScript
 - TypeScript
