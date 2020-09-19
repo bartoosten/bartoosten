@@ -22,12 +22,15 @@ Ask me about, job oppertunities, virtual reality, AI, personal, political, econo
 | Languages 	|  	| Frameworks 	|  	|
 |-	|-	|-	|-	|
 | JavaScript 	| ●●●◐○ 	| React 	| ●●●◐○ 	|
-| JavaScript 	| ●●●◐○ 	| React 	| ●●●◐○ 	|
-| JavaScript 	| ●●●◐○ 	| React 	| ●●●◐○ 	|
-| JavaScript 	| ●●●◐○ 	| React 	| ●●●◐○ 	|
-| JavaScript 	| ●●●◐○ 	| React 	| ●●●◐○ 	|
-| JavaScript 	| ●●●◐○ 	| React 	| ●●●◐○ 	|
-| JavaScript 	| ●●●◐○ 	| React 	| ●●●◐○ 	|
+| TypeScript 	| ●●●◐○ 	| React 	| ●●●◐○ 	|
+| JSX (JavaScript XML) 	| ●●●◐○ 	| React 	| ●●●◐○ 	|
+| HMTL5 	| ●●●◐○ 	| React 	| ●●●◐○ 	|
+| CSS3 	| ●●●◐○ 	| React 	| ●●●◐○ 	|
+| GraphQL 	| ●●●◐○ 	| React 	| ●●●◐○ 	|
+| Python 	| ●●●◐○ 	| React 	| ●●●◐○ 	|
+| C# 	| ●●●◐○ 	|  	|  	|
+| Swift 	| ●●●◐○ 	|  	|  	|
+| Java 	| ●●●◐○ 	|  	|  	|
 
 - JavaScript
 - TypeScript
