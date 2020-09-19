@@ -22,27 +22,15 @@ Ask me about, job oppertunities, virtual reality, AI, personal, political, econo
 | Languages 	|  	| Frameworks 	|  	|
 |-	|-	|-	|-	|
 | JavaScript 	| ●●●◐○ 	| React 	| ●●●◐○ 	|
-| TypeScript 	| ●●●◐○ 	| React 	| ●●●◐○ 	|
-| JSX (JavaScript XML) 	| ●●●◐○ 	| React 	| ●●●◐○ 	|
-| HMTL5 	| ●●●◐○ 	| React 	| ●●●◐○ 	|
-| CSS3 	| ●●●◐○ 	| React 	| ●●●◐○ 	|
-| GraphQL 	| ●●●◐○ 	| React 	| ●●●◐○ 	|
-| Python 	| ●●●◐○ 	| React 	| ●●●◐○ 	|
+| TypeScript 	| ●●●◐○ 	| React Native 	| ●●●◐○ 	|
+| JSX (JavaScript XML) 	| ●●●◐○ 	| Next.js 	| ●●●◐○ 	|
+| HMTL5 	| ●●●◐○ 	| Expo 	| ●●●◐○ 	|
+| CSS3 	| ●●●◐○ 	| Node.js 	| ●●●◐○ 	|
+| GraphQL 	| ●●●◐○ 	| Express 	| ●●●◐○ 	|
+| Python 	| ●●●◐○ 	| Nest.js 	| ●●●◐○ 	|
 | C# 	| ●●●◐○ 	|  	|  	|
 | Swift 	| ●●●◐○ 	|  	|  	|
 | Java 	| ●●●◐○ 	|  	|  	|
-
-- JavaScript
-- TypeScript
-- JSX (JavaScript XML)
-- HTML5
-- CSS
-- GraphQL
-- Python
-- C#
-- Swift
-- Java
-
 
 <!--
 **bartoosten/bartoosten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
