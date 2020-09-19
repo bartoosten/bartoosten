@@ -21,13 +21,13 @@ Ask me about, job oppertunities, virtual reality, AI, personal, political, econo
 
 | Languages 	|  	| Frameworks 	|  	|
 |-	|-	|-	|-	|
-| JavaScript 	|  	| React 	|  	|
-| TypeScript 	|  	|  	|  	|
-|  	|  	|  	|  	|
-|  	|  	|  	|  	|
-|  	|  	|  	|  	|
-|  	|  	|  	|  	|
-|  	|  	|  	|  	|
+| JavaScript 	| ●●●◐○ 	| React 	| ●●●◐○ 	|
+| JavaScript 	| ●●●◐○ 	| React 	| ●●●◐○ 	|
+| JavaScript 	| ●●●◐○ 	| React 	| ●●●◐○ 	|
+| JavaScript 	| ●●●◐○ 	| React 	| ●●●◐○ 	|
+| JavaScript 	| ●●●◐○ 	| React 	| ●●●◐○ 	|
+| JavaScript 	| ●●●◐○ 	| React 	| ●●●◐○ 	|
+| JavaScript 	| ●●●◐○ 	| React 	| ●●●◐○ 	|
 
 - JavaScript
 - TypeScript
