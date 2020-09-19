@@ -17,8 +17,6 @@ Ask me about, job oppertunities, virtual reality, AI, personal, political, econo
 
 ### Skills
 
-#### Languages
-
 | Languages 	|  	| Frameworks 	|  	| Libraries 	|  	|
 |-	|-	|-	|-	|-	|-	|
 | JavaScript 	| ●●●◐○ 	| React 	| ●●●◐○ 	| Immer 	| ●●●◐○ 	|
@@ -27,9 +25,9 @@ Ask me about, job oppertunities, virtual reality, AI, personal, political, econo
 | HMTL5 	| ●●●◐○ 	| Expo 	| ●●●◐○ 	| Draft.js 	| ●●●◐○ 	|
 | CSS3 	| ●●●◐○ 	| Node.js 	| ●●●◐○ 	| Moment.js 	| ●●●◐○ 	|
 | GraphQL 	| ●●●◐○ 	| Express 	| ●●●◐○ 	| Date-fns 	| ●●●◐○ 	|
-| Python 	| ●●●◐○ 	| Nest.js 	| ●●●◐○ 	|  	|  	|
-| C# 	| ●●●◐○ 	|  	|  	|  	|  	|
-| Swift 	| ●●●◐○ 	|  	|  	|  	|  	|
+| Python 	| ●●●◐○ 	| Nest.js 	| ●●●◐○ 	| Formik 	| ●●●◐○ 	|
+| C# 	| ●●●◐○ 	| Sanity 	| ●●●◐○ 	| Yup 	| ●●●◐○ 	|
+| Swift 	| ●●●◐○ 	|  	|  	| React Navigation 	| ●●●◐○ 	|
 | Java 	| ●●●◐○ 	|  	|  	|  	|  	|
 
 <!--
