@@ -30,9 +30,9 @@ Ask me about, job oppertunities, virtual reality, AI, personal, political, econo
 | Python 	| ●●●◐○ 	| Nest.js 	| ●●●◐○ 	| Formik 	| ●●●◐○ 	|
 | C# 	| ●●●◐○ 	| Sanity 	| ●●●◐○ 	| Yup 	| ●●●◐○ 	|
 | Swift 	| ●●●◐○ 	| Apollo 	| ●●●◐○ 	| React Navigation 	| ●●●◐○ 	|
-| Java 	| ●●●◐○ 	| Prisma 	| ●●●◐○ 	|  	|  	|
-|  	|  	| Socket.IO 	| ●●●◐○ 	|  	|  	|
-|  	|  	| Sass 	| ●●●◐○ 	|  	|  	|
+| Java 	| ●●●◐○ 	| Prisma 	| ●●●◐○ 	| Async Storage 	| ●●●◐○ 	|
+|  	|  	| Socket.IO 	| ●●●◐○ 	| Google Maps React 	| ●●●◐○ 	|
+|  	|  	| Sass 	| ●●●◐○ 	| React Native Maps 	| ●●●◐○ 	|
 |  	|  	| Styled Components 	| ●●●◐○ 	|  	|  	|
 
 <!--
