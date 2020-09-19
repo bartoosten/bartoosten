@@ -24,6 +24,10 @@ Ask me about, job oppertunities, virtual reality, AI, personal, political, econo
 - HTML5
 - CSS
 - GraphQL
+- Python
+- C#
+- Swift
+- Java
 
 
 <!--
