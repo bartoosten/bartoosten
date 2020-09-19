@@ -6,7 +6,10 @@ I’m looking to collaborate on projects and ideas that would help people be mor
 
 Ask me about, job oppertunities, virtual reality, AI, personal, political, economic, aesthetic, psychological, moral, ethical, and social consequences of technology.
 
-📫  How to reach me: https://twitter.com/bartoosten or https://www.linkedin.com/in/bart-oosten-516b9169/
+###How to reach me 📫
+
+- Twitter: https://twitter.com/bartoosten 
+- LinkedIn: https://www.linkedin.com/in/bart-oosten-516b9169/
 
 - ⚡ Fun fact 1: As a kid I couldn't sit still, now I crave Meditation and Mindfullness
 - ⚡ Fun fact 2: I have a dog named Sushi
