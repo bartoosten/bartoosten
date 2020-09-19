@@ -30,7 +30,10 @@ Ask me about, job oppertunities, virtual reality, AI, personal, political, econo
 | Python 	| ●●●◐○ 	| Nest.js 	| ●●●◐○ 	| Formik 	| ●●●◐○ 	|
 | C# 	| ●●●◐○ 	| Sanity 	| ●●●◐○ 	| Yup 	| ●●●◐○ 	|
 | Swift 	| ●●●◐○ 	| Apollo 	| ●●●◐○ 	| React Navigation 	| ●●●◐○ 	|
-| Java 	| ●●●◐○ 	| Socket.IO 	| ●●●◐○ 	|  	|  	|
+| Java 	| ●●●◐○ 	| Prisma 	| ●●●◐○ 	|  	|  	|
+|  	|  	| Socket.IO 	| ●●●◐○ 	|  	|  	|
+|  	|  	| Sass 	| ●●●◐○ 	|  	|  	|
+|  	|  	| Styled Components 	| ●●●◐○ 	|  	|  	|
 
 <!--
 **bartoosten/bartoosten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
