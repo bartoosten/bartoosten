@@ -5,8 +5,9 @@
 - 👯 I’m looking to collaborate on projects and ideas that would help people be more connected and makes their life easier. I tend to challenge the core situation and solutions in a positive way, not only technical but also conceptual.
 - 🤔 I’m looking for help with better understanding complex backend solutions, like Design Patterns in C#; With the purpose of getting a more complete picture of the technical landscape.
 - 💬 Ask me about, job oppertunities, virtual reality, AI, personal, political, economic, aesthetic, psychological, moral, ethical, and social consequences of technology.
-
-
+- 📫 How to reach me: https://twitter.com/bartoosten or https://www.linkedin.com/in/bart-oosten-516b9169/
+- 😄 Pronouns: He/Him/His/Himself
+- ⚡ Fun fact: I've a dog named Sushi 🍣
 
 
 <!--
