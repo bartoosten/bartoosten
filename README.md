@@ -10,7 +10,7 @@ Ask me about, job oppertunities, virtual reality, AI, personal, political, econo
 
 - ⚡ Fun fact 1: As a kid I couldn't sit still, now I crave Meditation and Mindfullness
 - ⚡ Fun fact 2: I have a dog named Sushi
-- ⚡ Fun fact 3: I'm currently saving up for Telescope to Photograph Planets 🌌
+- ⚡ Fun fact 3: I'm currently saving up for a Telescope to photograph nearby planets 🌌
 
 <!--
 **bartoosten/bartoosten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
