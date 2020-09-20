@@ -34,7 +34,7 @@ Ask me about, job oppertunities, virtual reality, AI, personal, political, econo
 | PHP 	| ●●●◐○ 	| Socket.IO 	| ●●●◐○ 	| Google Maps React 	| ●●●◐○ 	|
 |  	|  	| Sass 	| ●●●◐○ 	| React Native Maps 	| ●●●◐○ 	|
 |  	|  	| Styled Components 	| ●●●◐○ 	| Testing Library 	| ●●●◐○ 	|
-|  	|  	| Cypress.io 	| ●●●◐○ 	|  	|  	|
+|  	|  	| Cypress.io 	| ●●●◐○ 	| D3 (Data-Driven Documents 	| ●●●◐○ 	|
 |  	|  	| Jest 	| ●●●◐○ 	|  	|  	|
 
 <!--
