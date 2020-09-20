@@ -36,6 +36,7 @@ Ask me about, job oppertunities, virtual reality, AI, personal, political, econo
 |  	|  	| Styled Components 	| ●●●◐○ 	| Testing Library 	| ●●●◐○ 	|
 |  	|  	| Cypress.io 	| ●●●◐○ 	| D3 (Data-Driven Documents 	| ●●●◐○ 	|
 |  	|  	| Jest 	| ●●●◐○ 	|  	|  	|
+|  	|  	| Storybook 	| ●●●◐○ 	|  	|  	|
 
 | Tools 	|  	| Methods 	|  	| Others 	|  	|
 |-	|-	|-	|-	|-	|-	|
