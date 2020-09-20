@@ -31,9 +31,10 @@ Ask me about, job oppertunities, virtual reality, AI, personal, political, econo
 | C# 	| ●●●◐○ 	| Sanity 	| ●●●◐○ 	| Yup 	| ●●●◐○ 	|
 | Swift 	| ●●●◐○ 	| Apollo 	| ●●●◐○ 	| React Navigation 	| ●●●◐○ 	|
 | Java 	| ●●●◐○ 	| Prisma 	| ●●●◐○ 	| Async Storage 	| ●●●◐○ 	|
-|  	|  	| Socket.IO 	| ●●●◐○ 	| Google Maps React 	| ●●●◐○ 	|
+| PHP 	| ●●●◐○ 	| Socket.IO 	| ●●●◐○ 	| Google Maps React 	| ●●●◐○ 	|
 |  	|  	| Sass 	| ●●●◐○ 	| React Native Maps 	| ●●●◐○ 	|
-|  	|  	| Styled Components 	| ●●●◐○ 	|  	|  	|
+|  	|  	| Styled Components 	| ●●●◐○ 	| Testing Library 	| ●●●◐○ 	|
+|  	|  	| Cypress.io 	| ●●●◐○ 	|  	|  	|
 
 <!--
 **bartoosten/bartoosten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
