@@ -45,16 +45,16 @@ Ask me about, job oppertunities, virtual reality, AI, personal, political, econo
 | Android Studio 	| ●●●◐○ 	| Version Control 	| ●●●◐○ 	| Premiere 	| ●●●◐○ 	|
 | Jira 	| ●●●◐○ 	| Functional Programming 	| ●●●◐○ 	| Excel 	| ●●●◐○ 	|
 | FramerX 	| ●●●◐○ 	| Server Side Rendering 	| ●●●◐○ 	| Word 	| ●●●◐○ 	|
-| Figma 	| ●●●◐○ 	| Backend as a Service 	| ●●●◐○ 	|  	|  	|
-| Sketch 	| ●●●◐○ 	| Serverless Functions 	| ●●●◐○ 	|  	|  	|
-| Github 	| ●●●◐○ 	| Functional Components 	| ●●●◐○ 	|  	|  	|
-| FaunaDB 	| ●●●◐○ 	| Hooks 	| ●●●◐○ 	|  	|  	|
-| FireBase 	| ●●●◐○ 	| Context 	| ●●●◐○ 	|  	|  	|
-| Azure 	| ●●●◐○ 	| Cross Browser Testing 	| ●●●◐○ 	|  	|  	|
-| App Center 	| ●●●◐○ 	| Responsive Web Design 	| ●●●◐○ 	|  	|  	|
-| NPM 	| ●●●◐○ 	| Fluid Web Design 	| ●●●◐○ 	|  	|  	|
-| Yarn 	| ●●●◐○ 	| Block Element Modifier (BEM) 	| ●●●◐○ 	|  	|  	|
-
+| Figma 	| ●●●◐○ 	| Design System 	| ●●●◐○ 	| Socratic Method 	| ●●●◐○ 	|
+| Sketch 	| ●●●◐○ 	| Backend as a Service 	| ●●●◐○ 	| Suspension of Judgement 	| ●●●◐○ 	|
+| Github 	| ●●●◐○ 	| Serverless Functions 	| ●●●◐○ 	|  	|  	|
+| FaunaDB 	| ●●●◐○ 	| Functional Components 	| ●●●◐○ 	|  	|  	|
+| FireBase 	| ●●●◐○ 	| Hooks 	| ●●●◐○ 	|  	|  	|
+| Azure 	| ●●●◐○ 	| Context 	| ●●●◐○ 	|  	|  	|
+| App Center 	| ●●●◐○ 	| Cross Browser Testing 	| ●●●◐○ 	|  	|  	|
+| NPM 	| ●●●◐○ 	| Responsive Web Design 	| ●●●◐○ 	|  	|  	|
+| Yarn 	| ●●●◐○ 	| Fluid Web Design 	| ●●●◐○ 	|  	|  	|
+|  	|  	| Block Element Modifier (BEM) 	| ●●●◐○ 	|  	|  	|
 <!--
 **bartoosten/bartoosten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
