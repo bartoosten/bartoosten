@@ -37,6 +37,24 @@ Ask me about, job oppertunities, virtual reality, AI, personal, political, econo
 |  	|  	| Cypress.io 	| ●●●◐○ 	| D3 (Data-Driven Documents 	| ●●●◐○ 	|
 |  	|  	| Jest 	| ●●●◐○ 	|  	|  	|
 
+| Tools 	|  	| Methods 	|  	| Others 	|  	|
+|-	|-	|-	|-	|-	|-	|
+| Visual Studio Code 	| ●●●◐○ 	| Agile 	| ●●●◐○ 	| Photoshop 	| ●●●◐○ 	|
+| Visual Studio 	| ●●●◐○ 	| Clean Code 	| ●●●◐○ 	| Illustrator 	| ●●●◐○ 	|
+| Xcode 	| ●●●◐○ 	| Scrum 	| ●●●◐○ 	| After Effects 	| ●●●◐○ 	|
+| Android Studio 	| ●●●◐○ 	| Version Control 	| ●●●◐○ 	| Premiere 	| ●●●◐○ 	|
+| Jira 	| ●●●◐○ 	| Functional Programming 	| ●●●◐○ 	| Excel 	| ●●●◐○ 	|
+| FramerX 	| ●●●◐○ 	| Server Side Rendering 	| ●●●◐○ 	| Word 	| ●●●◐○ 	|
+| Figma 	| ●●●◐○ 	| Backend as a Service 	| ●●●◐○ 	|  	|  	|
+| Sketch 	| ●●●◐○ 	| Serverless Functions 	| ●●●◐○ 	|  	|  	|
+| Github 	| ●●●◐○ 	| Functional Components 	| ●●●◐○ 	|  	|  	|
+| FaunaDB 	| ●●●◐○ 	| Hooks 	| ●●●◐○ 	|  	|  	|
+| FireBase 	| ●●●◐○ 	| Context 	| ●●●◐○ 	|  	|  	|
+| Azure 	| ●●●◐○ 	| Cross Browser Testing 	| ●●●◐○ 	|  	|  	|
+| App Center 	| ●●●◐○ 	| Responsive Web Design 	| ●●●◐○ 	|  	|  	|
+| NPM 	| ●●●◐○ 	| Fluid Web Design 	| ●●●◐○ 	|  	|  	|
+| Yarn 	| ●●●◐○ 	| Block Element Modifier (BEM) 	| ●●●◐○ 	|  	|  	|
+
 <!--
 **bartoosten/bartoosten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
