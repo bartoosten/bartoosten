@@ -61,15 +61,27 @@ Ask me about, job oppertunities, virtual reality, AI, personal, political, econo
 
 #### Achmea - Homies Alarm
 
+https://www.homiesalarm.nl/
+
 #### Achmea - Buurtkring
+
+https://buurtkring.nl/
 
 #### HeadFWD
 
+https://www.headfwd.com/
+
 #### De Nationale Hypotheekbond
+
+https://consumenten.hypotheekbond.nl/
 
 #### DeGiro
 
+https://www.degiro.nl/
+
 #### GridLine
+
+https://www.gridline.nl/
 <!--
 **bartoosten/bartoosten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
