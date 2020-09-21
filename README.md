@@ -18,7 +18,6 @@ Ask me about, job oppertunities, virtual reality, AI, personal, political, econo
 - LinkedIn: https://www.linkedin.com/in/bart-oosten-516b9169/
 
 ### Skills
-
 | Languages 	|  	| Frameworks 	|  	| Libraries 	|  	|
 |-	|-	|-	|-	|-	|-	|
 | JavaScript 	| ●●●◐○ 	| React 	| ●●●◐○ 	| Immer 	| ●●●◐○ 	|
@@ -34,9 +33,10 @@ Ask me about, job oppertunities, virtual reality, AI, personal, political, econo
 | PHP 	| ●●●◐○ 	| Socket.IO 	| ●●●◐○ 	| Google Maps React 	| ●●●◐○ 	|
 |  	|  	| Sass 	| ●●●◐○ 	| React Native Maps 	| ●●●◐○ 	|
 |  	|  	| Styled Components 	| ●●●◐○ 	| Testing Library 	| ●●●◐○ 	|
-|  	|  	| Cypress.io 	| ●●●◐○ 	| D3 (Data-Driven Documents 	| ●●●◐○ 	|
+|  	|  	| Cypress.io 	| ●●●◐○ 	| D3 (Data-Driven Documents) 	| ●●●◐○ 	|
 |  	|  	| Jest 	| ●●●◐○ 	|  	|  	|
 |  	|  	| Storybook 	| ●●●◐○ 	|  	|  	|
+|                               	|  	|                                 	|  	|  	|  	|
 
 | Tools 	|  	| Methods 	|  	| Others 	|  	|
 |-	|-	|-	|-	|-	|-	|
