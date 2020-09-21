@@ -58,6 +58,18 @@ Ask me about, job oppertunities, virtual reality, AI, personal, political, econo
 |  	|  	| Block Element Modifier (BEM) 	| ●●●◐○ 	|  	|  	|
 
 ### Experience
+
+#### Achmea - Homies Alarm
+
+#### Achmea - Buurtkring
+
+#### HeadFWD
+
+#### De Nationale Hypotheekbond
+
+#### DeGiro
+
+#### GridLine
 <!--
 **bartoosten/bartoosten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
