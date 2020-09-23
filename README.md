@@ -20,22 +20,22 @@ Ask me about, job oppertunities, virtual reality, AI, personal, political, econo
 ### Skills
 | Languages 	|  	| Frameworks 	|  	| Libraries 	|  	|
 |-	|-	|-	|-	|-	|-	|
-| JavaScript 	| ●●●◐○ 	| React 	| ●●●◐○ 	| Immer 	| ●●●◐○ 	|
-| TypeScript 	| ●●●◐○ 	| React Native 	| ●●●◐○ 	| Lodash 	| ●●●◐○ 	|
-| JSX (JavaScript XML) 	| ●●●◐○ 	| Next.js 	| ●●●◐○ 	| Beautiful DND 	| ●●●◐○ 	|
-| HMTL5 	| ●●●◐○ 	| Expo 	| ●●●◐○ 	| Draft.js 	| ●●●◐○ 	|
-| CSS3 	| ●●●◐○ 	| Node.js 	| ●●●◐○ 	| Moment.js 	| ●●●◐○ 	|
-| GraphQL 	| ●●●◐○ 	| Express 	| ●●●◐○ 	| Date-fns 	| ●●●◐○ 	|
-| Python 	| ●●●◐○ 	| Nest.js 	| ●●●◐○ 	| Formik 	| ●●●◐○ 	|
-| C# 	| ●●●◐○ 	| Sanity 	| ●●●◐○ 	| Yup 	| ●●●◐○ 	|
-| Swift 	| ●●●◐○ 	| Apollo 	| ●●●◐○ 	| React Navigation 	| ●●●◐○ 	|
-| Java 	| ●●●◐○ 	| Prisma 	| ●●●◐○ 	| Async Storage 	| ●●●◐○ 	|
-| PHP 	| ●●●◐○ 	| Socket.IO 	| ●●●◐○ 	| Google Maps React 	| ●●●◐○ 	|
-|  	|  	| Sass 	| ●●●◐○ 	| React Native Maps 	| ●●●◐○ 	|
-|  	|  	| Styled Components 	| ●●●◐○ 	| Testing Library 	| ●●●◐○ 	|
-|  	|  	| Cypress.io 	| ●●●◐○ 	| D3 (Data-Driven Documents) 	| ●●●◐○ 	|
-|  	|  	| Jest 	| ●●●◐○ 	|  	|  	|
-|  	|  	| Storybook 	| ●●●◐○ 	|  	|  	|
+| JavaScript 	| ●●●◐○ 	| React 	| ●●●●◐ 	| Immer 	| ●●●●◐ 	|
+| TypeScript 	| ●●●●○ 	| React Native 	| ●●●●◐ 	| Lodash 	| ●●●●◐ 	|
+| JSX (JavaScript XML) 	| ●●●●○ 	| Next.js 	| ●●●●○ 	| Beautiful DND 	| ●●●●○ 	|
+| HMTL5 	| ●●●●● 	| Expo 	| ●●●●● 	| Draft.js 	| ●●●●○ 	|
+| CSS3 	| ●●●●● 	| Node.js 	| ●●●○○ 	| Moment.js 	| ●●●●○ 	|
+| GraphQL 	| ●●●○○ 	| Express 	| ●●●○○ 	| Date-fns 	| ●●●●○ 	|
+| Python 	| ●●○○○ 	| Nest.js 	| ●●○○○ 	| Formik 	| ●●●●◐ 	|
+| C# 	| ●●○○○ 	| Sanity 	| ●●●◐○ 	| Yup 	| ●●●●○ 	|
+| Swift 	| ●●○○○ 	| Apollo 	| ●●●◐○ 	| React Navigation 	| ●●●●◐ 	|
+| Java 	| ●●○○○ 	| Prisma 	| ●●●◐○ 	| Async Storage 	| ●●●●◐ 	|
+| PHP 	| ●●●○○ 	| Socket.IO 	| ●●●◐○ 	| Google Maps React 	| ●●●◐○ 	|
+|  	|  	| Sass 	| ●●●●● 	| React Native Maps 	| ●●●◐○ 	|
+|  	|  	| Styled Components 	| ●●●●● 	| Testing Library 	| ●●●◐○ 	|
+|  	|  	| Cypress.io 	| ●●●●◐ 	| D3 (Data-Driven Documents) 	| ●●●○○ 	|
+|  	|  	| Jest 	| ●●●○○ 	| Detox 	| ●●○○○ 	|
+|  	|  	| Storybook 	| ●●○○○ 	|  	|  	|
 |                               	|  	|                                 	|  	|  	|  	|
 
 | Tools 	|  	| Methods 	|  	| Others 	|  	|
