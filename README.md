@@ -57,6 +57,12 @@ Ask me about, job oppertunities, virtual reality, AI, personal, political, econo
 | Yarn 	| ●●●◐○ 	| Fluid Web Design 	| ●●●◐○ 	|  	|  	|
 |  	|  	| Block Element Modifier (BEM) 	| ●●●◐○ 	|  	|  	|
 
+<!--
+  Eslint
+  TsLint
+  Prettier
+-->
+
 ### Experience
 
 #### Achmea - Homies Alarm
