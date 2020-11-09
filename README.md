@@ -1,8 +1,8 @@
 ### Hi There 👋
 
-I’m currently working on IOT solutions for Home Security Systems and Healthcare. To develop these solutions I use React and NEXT (SSR). Furthermore I also develop Mobile Applications with tools like React Native & Expo. I’m currently learning CI/CD with Azure Devops, Circle CI & Fastlane.
+I can best be described as discovering and thoughtful. I am currently working on IOT solutions for Achmea. My preference for development is currently based on frameworks such as React, React Native, Expo and Next. Perhaps my most powerful trait as a developer is solving conceptually complex situations and often seeing the absence of a problem.
 
-I’m looking to collaborate on projects and ideas that would help people be more connected and makes their life easier. I tend to challenge the core situation and solutions in a positive way, not only technical but also conceptual.
+My skills are not limited to development. I have a lot of affinity with setting up design systems and see design and development as a process that must be effectively aligned. For me, communication is an essential part of my job and role as a developer.
 
 Ask me about, job oppertunities, virtual reality, AI, personal, political, economic, aesthetic, psychological, moral, ethical, and social consequences of technology.
 
