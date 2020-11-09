@@ -10,8 +10,9 @@ Ask me about, job oppertunities, virtual reality, AI, personal, political, econo
 
 ⚡ As a child I was overactive and could hardly sit still, now that I'm a developer my need for Meditation and Mindfulness get increasingly more important.
 
-- ⚡ I have a dog named Sushi
-- ⚡ I'm currently saving up for a Telescope to photograph nearby planets in our universe 🌌
+⚡ Me and my girlfriend recently also got a dog named Sushi the Corgi. Sushi makes a few stand-up or retro appearances every week.
+
+⚡ Besides being a developer, I'm also a big science fiction Nerd, and am currently saving for a telescope to take pictures of planets in our universe. 🌌
 
 ### How to reach me 📫
 
