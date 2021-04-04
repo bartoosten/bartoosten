@@ -23,7 +23,7 @@ Ask me about, job oppertunities, virtual reality, AI, personal, political, econo
 
 <table>
   <tr>
-    <td valign="top"><p>test</p></td>
+    <td valign="top" style="background-color: hotpink;"><p>test</p></td>
         <td valign="top"><p>test</p></td>
   </tr>
 </table>
