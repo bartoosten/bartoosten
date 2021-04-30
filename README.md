@@ -1,6 +1,6 @@
 ### Hi There 👋
 
-I can best be described as discovering and thoughtful. I'm currently working on IOT solutions for Achmea. My preference for development is currently based on frameworks such as React, React Native, Expo and Next. Perhaps my most powerful trait as a developer is solving conceptually complex situations and often seeing the absence of a problem.
+I can best be described as discovering and thoughtful. I'm currently working on port software applicaions for the Port of Rotterdam. My preference for development is currently based on frameworks such as React, React Native, Expo, Next, GraphQL and Apollo. Perhaps my most powerful trait as a developer is solving conceptually complex situations and often seeing the absence of a problem.
 
 My skills are not limited to development. I have a lot of affinity with setting up design systems and see design and development as a process that must be effectively aligned. For me, communication is an essential part of my job and role as a developer.
 
@@ -20,13 +20,6 @@ Ask me about, job oppertunities, virtual reality, AI, personal, political, econo
 - LinkedIn: https://www.linkedin.com/in/bart-oosten-516b9169/
 
 ### Skills
-
-<table>
-  <tr>
-    <td valign="top" style="background-color: hotpink;"><p>test</p></td>
-        <td valign="top"><p>test</p></td>
-  </tr>
-</table>
 
 | Languages 	|  	| Frameworks 	|  	| Libraries 	|  	|
 |-	|-	|-	|-	|-	|-	|
