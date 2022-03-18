@@ -20,6 +20,7 @@ Ask me about, job oppertunities, virtual reality, AI, personal, political, econo
 - LinkedIn: https://www.linkedin.com/in/bart-oosten-516b9169/
 
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/bartoosten?style=social">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/bartoosten?style=social">
 
 ### Experience
 
