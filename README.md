@@ -19,6 +19,8 @@ Ask me about, job oppertunities, virtual reality, AI, personal, political, econo
 - Twitter: https://twitter.com/bartoosten 
 - LinkedIn: https://www.linkedin.com/in/bart-oosten-516b9169/
 
+https://img.shields.io/twitter/follow/bartoosten?style=social
+
 ### Experience
 
 #### Port of Rotterdam - Port Insider
