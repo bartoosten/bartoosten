@@ -1,10 +1,10 @@
 ### Hi There 👋
 
-I can best be described as discovering and thoughtful. I'm currently working on port software applicaions for the Port of Rotterdam. My preference for development is currently based on frameworks such as React, React Native, Expo, Next, GraphQL and Apollo. Perhaps my most powerful trait as a developer is solving conceptually complex situations and often seeing the absence of a problem.
+I am an experienced software developer who is currently working on software applications for the Port of Rotterdam. I have a preference for development using frameworks such as React, React Native, Expo, Next, GraphQL, and Apollo. My most powerful trait as a developer is solving conceptually complex situations and often seeing the absence of a problem.
 
-My skills are not limited to development. I have a lot of affinity with setting up design systems and see design and development as a process that must be effectively aligned. For me, communication is an essential part of my job and role as a developer.
+My skills are not limited to development. I am also skilled in setting up design systems and see design and development as a process that must be effectively aligned. For me, communication is an essential part of my job and role as a developer.
 
-Ask me about, job oppertunities, virtual reality, AI, personal, political, economic, aesthetic, psychological, moral, ethical, and social consequences of technology.
+Inquire about the potential professional, personal, political, economic, aesthetic, psychological, moral, ethical, and social implications of technological advancements with me.
 
 #### Fun facts:
 
