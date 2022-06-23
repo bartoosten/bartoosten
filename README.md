@@ -1,18 +1,13 @@
 ### Hi There 👋
 
-I am an experienced software developer who is currently working on software applications for the Port of Rotterdam. I have a preference for development using frameworks such as React, React Native, Expo, Next, GraphQL, and Apollo. My most powerful trait as a developer is solving conceptually complex situations and often seeing the absence of a problem.
+I am an experienced software developer who is currently working on software applications for the Port of Rotterdam. I have a preference for development using frameworks such as React, React Native, Expo, Next, GraphQL, and Apollo. My most powerful trait as a developer is solving conceptually complex situations and often seeing the absence of a problem as an opportunity for a new solution. This is also evident in my ability to develop creative and innovative software solutions.
 
-My skills are not limited to development. I am also skilled in setting up design systems and see design and development as a process that must be effectively aligned. For me, communication is an essential part of my job and role as a developer.
+I also have a good sense of aesthetics and a good eye for design, working with and setting up Design Systems. In my opinion, designers cannot work well without thinking about how their designs will be implemented.
 
-Inquire about the potential professional, personal, political, economic, aesthetic, psychological, moral, ethical, and social implications of technological advancements with me.
+I am always keen on learning new things and developing new skills to keep up with the ever-changing technology industry.
 
-#### Fun facts:
-
-⚡ As a child I was overactive and could hardly sit still, now that I'm a developer my need for Meditation and Mindfulness get increasingly more important.
-
-⚡ Me and my girlfriend recently also got a dog named Sushi the Corgi. Sushi makes a few stand-up or retro appearances every week.
-
-⚡ Besides being a developer, I'm also a big science fiction Nerd, and am currently saving for a telescope to take pictures of planets in our universe. 🌌
+I love to workout and go on runs, do yoga, hike and camp, cook, read nonfiction, listen to podcasts, and play with my dog.
+I'm happy to chat about anything design-related, so please reach out!
 
 ### How to reach me 📫
 
