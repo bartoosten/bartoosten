@@ -6,7 +6,7 @@ I also have a good sense of aesthetics and a good eye for design, working with a
 
 I am always keen on learning new things and developing new skills to keep up with the ever-changing technology industry.
 
-I love to workout and go on runs, do yoga, hike and camp, cook, read nonfiction, listen to podcasts, and play with my dog.
+In my spare time I love to workout and go on runs, do yoga, cook, read nonfiction, listen to podcasts, and play with my dog.
 I'm happy to chat about anything design-related, so please reach out!
 
 ### How to reach me 📫
