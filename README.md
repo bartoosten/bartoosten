@@ -1,13 +1,16 @@
 ### Hi There 👋
 
-I am an experienced software developer who is currently working on software applications for the Port of Rotterdam. I have a preference for development using frameworks such as React, React Native, Expo, Next, GraphQL, and Apollo. My most powerful trait as a developer is solving conceptually complex situations and often seeing the absence of a problem as an opportunity for a new solution. This is also evident in my ability to develop creative and innovative software solutions.
+I am an experienced software developer who is currently working on software applications for the (Port of Rotterdam)[https://www.portofrotterdam.com/en]. I currently love using tools such as React, React Native, Expo, Next, AWS, GraphQL, and Apollo.
 
-I also have a good sense of aesthetics and a good eye for design, working with and setting up Design Systems. In my opinion, designers cannot work well without thinking about how their designs will be implemented.
+Personally I tend to think in conceptual terms (System Thinking). In my experience complex or difficult problems are often not complex or difficult by nature. Most of the problems are we encounter a developers are perception problems. And with the right outlook there is a great absence of problems.
 
-I am always keen on learning new things and developing new skills to keep up with the ever-changing technology industry.
+Adding to the above; double checking requirements and references about features / products / user stories; is something I will do often.
 
-In my spare time I love to workout and go on runs, do yoga, cook, read nonfiction, listen to podcasts, and play with my dog.
-I'm happy to chat about anything design-related, so please reach out!
+A big part of my conceptual thinking is visual:
+
+In my opinion, designers cannot work well without thinking about how their designs will be implemented (and vice versa). By working well together by means of Design Systems / Design Tokens; not only great brings different teams/employees together, but also creates Great functional products.
+
+"The problem with goals is not achieving them, the problem is establishing them by thinking critically and creatively."
 
 ### How to reach me 📫
 
@@ -16,6 +19,15 @@ I'm happy to chat about anything design-related, so please reach out!
 
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/bartoosten?style=social">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/bartoosten?style=social">
+
+List of Frameworks, Libraries, Tools, Languages etc. 
+
+-
+-
+-
+
+I am always keen on learning new things and developing new skills to keep up with the ever-changing technology industry.
+(I love it when a new languages or framework has a good documentations.) 
 
 ### Experience
 
