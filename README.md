@@ -2,7 +2,7 @@
 
 ### Introduction
 
-I am an experienced software developer who is currently working on software applications for the (Port of Rotterdam)[https://www.portofrotterdam.com/en]. I currently love using tools such as React, React Native, Expo, Next, AWS, GraphQL, and Apollo.
+I am an experienced software developer who is currently working on software applications for the [https://www.portofrotterdam.com/en](Port of Rotterdam). I currently love using tools such as React, React Native, Expo, Next, AWS, GraphQL, and Apollo.
 
 Personally I tend to think in conceptual terms (System Thinking). In my experience complex or difficult problems are often not complex or difficult by nature. Most of the problems are we encounter a developers are perception problems. And with the right outlook there is a great absence of problems.
 
