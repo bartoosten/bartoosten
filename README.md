@@ -1,4 +1,6 @@
-### Hi There 👋
+## Hi There 👋
+
+### Introduction
 
 I am an experienced software developer who is currently working on software applications for the (Port of Rotterdam)[https://www.portofrotterdam.com/en]. I currently love using tools such as React, React Native, Expo, Next, AWS, GraphQL, and Apollo.
 
@@ -12,7 +14,7 @@ In my opinion, designers cannot work well without thinking about how their desig
 
 "The problem with goals is not achieving them, the problem is establishing them by thinking critically and creatively."
 
-### How to reach me 📫
+#### How to reach me 📫
 
 - Twitter: https://twitter.com/bartoosten 
 - LinkedIn: https://www.linkedin.com/in/bart-oosten-516b9169/
