@@ -2,7 +2,7 @@
 
 ### Introduction
 
-As a software developer, I am currently working with a variety of clients at [https://www.headfwd.com/](HeadFWD) on various software applications using technologies such as React, React Native, Expo, Next, NestJS, AWS, GraphQL, and Apollo.
+As a software developer, I am currently working with a variety of clients at [HeadFWD](https://www.headfwd.com/) on various software applications using technologies such as React, React Native, Expo, Next, NestJS, AWS, GraphQL, and Apollo.
 
 I am skilled in conceptual thinking and believe that many seemingly complex issues can be resolved by altering one's perspective. In my professional experience, effective collaboration between designers and developers is crucial in creating functional products. Utilizing Design Systems and Design Tokens enables teams to work together seamlessly and create cohesive, effective solutions.
 
