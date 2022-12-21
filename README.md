@@ -2,17 +2,9 @@
 
 ### Introduction
 
-I am an experienced software developer who is currently working on software applications for the [https://www.portofrotterdam.com/en](Port of Rotterdam). I currently love using tools such as React, React Native, Expo, Next, AWS, GraphQL, and Apollo.
+As a software developer, I am currently working with a variety of clients at HeadFWD on various software applications using technologies such as React, React Native, Expo, Next, NestJS, AWS, GraphQL, and Apollo.
 
-Personally I tend to think in conceptual terms (System Thinking). In my experience complex or difficult problems are often not complex or difficult by nature. Most of the problems are we encounter a developers are perception problems. And with the right outlook there is a great absence of problems.
-
-Adding to the above; double checking requirements and references about features / products / user stories; is something I will do often.
-
-A big part of my conceptual thinking is visual:
-
-In my opinion, designers cannot work well without thinking about how their designs will be implemented (and vice versa). By working well together by means of Design Systems / Design Tokens; not only great brings different teams/employees together, but also creates Great functional products.
-
-"The problem with goals is not achieving them, the problem is establishing them by thinking critically and creatively."
+I am skilled in conceptual thinking and believe that many seemingly complex issues can be resolved by altering one's perspective. In my professional experience, effective collaboration between designers and developers is crucial in creating functional products. Utilizing Design Systems and Design Tokens enables teams to work together seamlessly and create cohesive, effective solutions.
 
 #### How to reach me 📫
 
