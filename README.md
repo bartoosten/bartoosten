@@ -8,20 +8,9 @@ I am skilled in conceptual thinking and believe that many seemingly complex issu
 
 #### How to reach me 📫
 
-- Twitter: https://twitter.com/bartoosten 
-- LinkedIn: https://www.linkedin.com/in/bart-oosten-516b9169/
-
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/bartoosten?style=social">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/bartoosten?style=social">
-
-List of Frameworks, Libraries, Tools, Languages etc. 
-
--
--
--
-
-I am always keen on learning new things and developing new skills to keep up with the ever-changing technology industry.
-(I love it when a new languages or framework has a good documentations.) 
+- [Twitter](https://twitter.com/bartoosten) 
+- [LinkedIn](https://www.linkedin.com/in/bart-oosten-516b9169/)
+- [Github](https://github.com/bartoosten)
 
 ### Experience
 
