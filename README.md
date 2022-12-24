@@ -8,6 +8,8 @@ I am skilled in conceptual thinking and believe that many seemingly complex issu
 
 #### How to reach me 📫
 
+You can reach me on LinkedIn, Twiiter and Github, I am always open to networking and discussing potential opportunities, so don't hesitate to reach out.
+
 - [Twitter](https://twitter.com/bartoosten) 
 - [LinkedIn](https://www.linkedin.com/in/bart-oosten-516b9169/)
 - [Github](https://github.com/bartoosten)
