@@ -42,14 +42,14 @@ Bart Oosten
 
 #### Communication Multimedia and Design
 
-<sub> **FROM** 01-02-2018 ➡️ **UNTIL 01-09-2018** </sub> <br>
+<sub> **FROM** 01-02-2018 ➡️ **UNTIL** 01-09-2018 </sub> <br>
 <sub> *Lindenhaeghe Opleidingen* ➕ **MBO** (Diploma Obtained)</sub>
 
 -----------
 
 #### Financieel Basis Adviseur
 
-<sub> **FROM** 01-02-2018 ➡️ **UNTIL 01-09-2018** </sub> <br>
+<sub> **FROM** 01-02-2018 ➡️ **UNTIL** 01-09-2018 </sub> <br>
 <sub> *Lindenhaeghe Opleidingen* ➕ **MBO** (Diploma Obtained)</sub>
 
 
@@ -57,14 +57,14 @@ Bart Oosten
 
 #### Financieel Basis Adviseur
 
-<sub> **FROM** 01-02-2018 ➡️ **UNTIL 01-09-2018** </sub> <br>
+<sub> **FROM** 01-02-2018 ➡️ **UNTIL** 01-09-2018 </sub> <br>
 <sub> *Lindenhaeghe Opleidingen* ➕ **MBO** (Diploma Obtained)</sub>
 
 -----------
 
 #### Financieel Basis Adviseur
 
-<sub> **FROM** 01-02-2018 ➡️ **UNTIL 01-09-2018** </sub> <br>
+<sub> **FROM** 01-02-2018 ➡️ **UNTIL** 01-09-2018 </sub> <br>
 <sub> *Lindenhaeghe Opleidingen* ➕ **MBO** (Diploma Obtained)</sub>
 
 
