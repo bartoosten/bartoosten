@@ -12,7 +12,10 @@ I'm convinced that designers and developers must consider each other's perspecti
 #### Personal Keywords
 > **creative** ➕ **organised** ➕ **calm** ➕ **meticulous** ➕ **preceptive** ➕ **sincere** ➕ **conceptual-minded**
 
-#### How to reach me 📫
+---
+
+#### Lets Connect...
+# ... And Explore
 
 You can reach me on LinkedIn, Twiiter and Github, I am always open to networking and discussing potential opportunities, so don't hesitate to reach out.
 
