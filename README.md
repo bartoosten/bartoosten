@@ -45,3 +45,6 @@ Bart Oosten
 <sub> **FROM** 01-02-2018 ➡️ **UNTIL 01-09-2018** </sub> <br>
 <sub> *Lindenhaeghe Opleidingen* ➕ **MBO** (Diploma Obtained)</sub>
 
+<hr style="height:1px; border:none; color:#333; background-color:#333; margin-top: 0; margin-bottom: 0;">
+
+
