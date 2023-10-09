@@ -74,14 +74,18 @@ Bart Oosten
 ### Skills & Tools
 > *We shape our tools, and thereafter our tools shape us*
 
-#### Personal Keywords
+#### Front-End Development
+> **TypeScript** ➕ **React** ➕ **Hooks** ➕ **Styled-Components** ➕ **GraphQL** ➕ **Apollo** ➕ **Recoil**
+> **Storybook** ➕ **Formik** ➕ **Cypress** ➕ **Jest** ➕ **JavaScript** ➕ **HTML** ➕ **CSS**
+
+#### UI Design System Development
 > **creative** ➕ **organised** ➕ **calm** ➕ **meticulous** ➕ **preceptive** ➕ **sincere** ➕ **conceptual-minded**
 
-#### Personal Keywords
+#### Native App Development
 > **creative** ➕ **organised** ➕ **calm** ➕ **meticulous** ➕ **preceptive** ➕ **sincere** ➕ **conceptual-minded**
 
-#### Personal Keywords
+#### Backend Development
 > **creative** ➕ **organised** ➕ **calm** ➕ **meticulous** ➕ **preceptive** ➕ **sincere** ➕ **conceptual-minded**
 
-#### Personal Keywords
+#### Backend Development
 > **creative** ➕ **organised** ➕ **calm** ➕ **meticulous** ➕ **preceptive** ➕ **sincere** ➕ **conceptual-minded**
