@@ -44,30 +44,30 @@ Bart Oosten
 
 #### Communication Multimedia and Design
 
-<sub> **FROM** 01-02-2018 ➡️ **UNTIL** 01-09-2018 </sub> <br>
-<sub> *Lindenhaeghe Opleidingen* ➕ **MBO** (Diploma Obtained)</sub>
+<sub> **FROM** 01-09-2009 ➡️ **UNTIL** 01-09-2014 </sub> <br>
+<sub> *Hogeschool van Amsterdam* ➕ **HBO** (Diploma Obtained)</sub>
 
 -----------
 
-#### Financieel Basis Adviseur
+#### Praktische Filosofie
 
-<sub> **FROM** 01-02-2018 ➡️ **UNTIL** 01-09-2018 </sub> <br>
-<sub> *Lindenhaeghe Opleidingen* ➕ **MBO** (Diploma Obtained)</sub>
+<sub> **FROM** 01-09-2012 ➡️ **UNTIL** 01-04-2013 </sub> <br>
+<sub> *Hogeschool van Amsterdam* ➕ **HBO** (Diploma Obtained)</sub>
 
-
------------
-
-#### Financieel Basis Adviseur
-
-<sub> **FROM** 01-02-2018 ➡️ **UNTIL** 01-09-2018 </sub> <br>
-<sub> *Lindenhaeghe Opleidingen* ➕ **MBO** (Diploma Obtained)</sub>
 
 -----------
 
-#### Financieel Basis Adviseur
+#### Bedrijfswiskunde
 
-<sub> **FROM** 01-02-2018 ➡️ **UNTIL** 01-09-2018 </sub> <br>
-<sub> *Lindenhaeghe Opleidingen* ➕ **MBO** (Diploma Obtained)</sub>
+<sub> **FROM** 01-09-2008 ➡️ **UNTIL** 01-09-2009 </sub> <br>
+<sub> *Hogeschool van Amsterdam* ➕ **HBO** (Diploma Not Obtained)</sub>
+
+-----------
+
+#### Atlas College Copernicus
+
+<sub> **FROM** 01-09-2002 ➡️ **UNTIL** 01-09-2008 </sub> <br>
+<sub> *Copernicus SG* ➕ **HAVO** (Diploma Obtained)</sub>
 
 
 
