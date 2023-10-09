@@ -11,7 +11,7 @@ I'm convinced that designers and developers must consider each other's perspecti
 
 ### Personal Keywords
 <span style="background-color: #42A175; padding: 5px; color: white;">Creative</span>
-[![CDNJS](https://img.shields.io/cdnjs/v/reactstrap.svg)](https://cdnjs.com/libraries/reactstrap)
+[![Creative](https://img.shields.io/cdnjs/v/reactstrap.svg)](https://cdnjs.com/libraries/reactstrap)
 
 #### How to reach me 📫
 
