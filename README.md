@@ -21,12 +21,13 @@ Bart Oosten
 
 *Software Developer & UI Design System Developer*
 
-> [!NOTE]
-> *We Alter the Human Landscape, Design with Intention*
-
 - [Twitter](https://twitter.com/bartoosten) 
 - [LinkedIn](https://www.linkedin.com/in/bart-oosten)
 - [Github](https://github.com/bartoosten)
+
+  
+> [!NOTE]
+> *We Alter the Human Landscape, Design with Intention*
 
 ---
 
