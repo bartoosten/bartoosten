@@ -28,7 +28,7 @@ Bart Oosten
 
   
 > [!NOTE]
-> *We Alter the Human Landscape, Design with Intention*
+> <small> *We Alter the Human Landscape, Design with Intention* </small>
 
 ---
 
