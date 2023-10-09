@@ -77,6 +77,7 @@ Bart Oosten
 #### Front-End Development
 > **TypeScript** ➕ **React** ➕ **Hooks** ➕ **Styled-Components** ➕ **GraphQL** ➕ **Apollo** ➕ **Recoil**
 > **Storybook** ➕ **Formik** ➕ **Cypress** ➕ **Jest** ➕ **JavaScript** ➕ **HTML** ➕ **CSS**
+> **Tailwind** ➕ **MUI** ➕ **Jira**
 
 #### UI Design System Development
 > **creative** ➕ **organised** ➕ **calm** ➕ **meticulous** ➕ **preceptive** ➕ **sincere** ➕ **conceptual-minded**
