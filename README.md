@@ -25,6 +25,7 @@ Bart Oosten
 - [LinkedIn](https://www.linkedin.com/in/bart-oosten)
 - [Github](https://github.com/bartoosten)
 
+
   
 > [!NOTE]
 > *We Alter the Human Landscape, Design with Intention*
