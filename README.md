@@ -25,10 +25,12 @@ Bart Oosten
 > *We Alter the Human Landscape, Design with Intention*
 
 - [Twitter](https://twitter.com/bartoosten) 
-- [LinkedIn](https://www.linkedin.com/in/bart-oosten-516b9169/)
+- [LinkedIn](https://www.linkedin.com/in/bart-oosten)
 - [Github](https://github.com/bartoosten)
 
-### Experience
+---
+
+### Education & Courses
 
 #### Port of Rotterdam - Port Insider
 
