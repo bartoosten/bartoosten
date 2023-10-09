@@ -1,6 +1,7 @@
 ## Hello Worlds 🌎 🌎 🌎
 
-### Introduction
+### Who are you?
+> Said the caterpillar ...
 
 As a skilled Software Developer and UX Designer, I'm passionate about creating impressive software applications using tools like React, React Native, Expo, Next, AWS, GraphQL, and Apollo.
 
