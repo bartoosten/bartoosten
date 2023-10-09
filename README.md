@@ -34,6 +34,7 @@ Bart Oosten
 > *Formal education often stifled creativity and individuality, but I survived.*
 
 #### Financieel Basis Adviseur
+
 <small>**FROM** 01-02-2018 ➡️ **UNTIL 01-09-2018**</small>
-<small> *Lindenhaeghe Opleidingen* ➕ **MBO** (Diploma Obtained)</small>
+<sub> *Lindenhaeghe Opleidingen* ➕ **MBO** (Diploma Obtained)</sub>
 
