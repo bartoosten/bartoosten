@@ -1,4 +1,4 @@
-## Hello Worlds 🌎 🌐
+# Hello Worlds 🌎 🌐
 
 ### Who are you?
 > *Said the caterpillar ...*
@@ -15,7 +15,7 @@ I'm convinced that designers and developers must consider each other's perspecti
 ---
 
 **Lets Connect...**
-# ... And Explore
+## ... And Explore
 
 Bart Oosten
 
