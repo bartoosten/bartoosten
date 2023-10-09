@@ -5,7 +5,7 @@
 
 As a skilled Software Developer and UX Designer, I'm passionate about creating impressive software applications using tools like React, React Native, Expo, Next, AWS, GraphQL, and Apollo.
 
-I believe in simplifying complex problems by adopting a conceptual mindset, realising that many challenges faced by developers stem from perception issues. Embracing the right outlook helps reduce obstacles and improve outcomes.
+**I believe in simplifying complex problems by adopting a conceptual mindset**, realising that many challenges faced by developers stem from perception issues. Embracing the right outlook helps reduce obstacles and improve outcomes.
 
 I'm convinced that designers and developers must consider each other's perspectives to achieve seamless collaboration. Utilising Design Systems and Design Tokens, we can unite teams and create outstanding, functional products together.
 
