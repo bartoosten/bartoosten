@@ -18,6 +18,7 @@ I'm convinced that designers and developers must consider each other's perspecti
 # ... And Explore
 
 Bart Oosten
+
 *Software Developer & UI Design System Developer*
 
 > [!NOTE]
