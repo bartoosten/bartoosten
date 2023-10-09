@@ -10,7 +10,7 @@ I believe in simplifying complex problems by adopting a conceptual mindset, real
 I'm convinced that designers and developers must consider each other's perspectives to achieve seamless collaboration. Utilising Design Systems and Design Tokens, we can unite teams and create outstanding, functional products together.
 
 #### Personal Keywords
-> creative ➕ organised ➕ calm ➕ meticulous ➕ preceptive ➕ sincere ➕ conceptual-minded
+> **creative** ➕ organised ➕ calm ➕ meticulous ➕ preceptive ➕ sincere ➕ conceptual-minded
 
 #### How to reach me 📫
 
