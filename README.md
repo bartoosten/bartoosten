@@ -17,7 +17,11 @@ I'm convinced that designers and developers must consider each other's perspecti
 **Lets Connect...**
 # ... And Explore
 
-You can reach me on LinkedIn, Twiiter and Github, I am always open to networking and discussing potential opportunities, so don't hesitate to reach out.
+Bart Oosten
+*Software Developer & UI Design System Developer*
+
+> [!NOTE]
+> *We Alter the Human Landscape, Design with Intention*
 
 - [Twitter](https://twitter.com/bartoosten) 
 - [LinkedIn](https://www.linkedin.com/in/bart-oosten-516b9169/)
