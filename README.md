@@ -21,7 +21,7 @@ Bart Oosten
 
 <sub> *Software Developer & UI Design System Developer* </sub>
 
-- [Twitter](https://twitter.com/bartoosten) 
+- [Twitter (X)](https://twitter.com/bartoosten) 
 - [LinkedIn](https://www.linkedin.com/in/bart-oosten)
 - [Github](https://github.com/bartoosten)
 
