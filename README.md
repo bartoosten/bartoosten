@@ -1,4 +1,4 @@
-# Hello Worlds 🌎 🌐
+# Okay, I'm here—now what? 👀
 
 ### Who are you?
 > *Said the caterpillar ...*
