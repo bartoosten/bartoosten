@@ -10,8 +10,7 @@ I believe in simplifying complex problems by adopting a conceptual mindset, real
 I'm convinced that designers and developers must consider each other's perspectives to achieve seamless collaboration. Utilising Design Systems and Design Tokens, we can unite teams and create outstanding, functional products together.
 
 ### Personal Keywords
-<span style="background-color: #42A175; padding: 5px; color: white;">Creative</span>
-[![Creative](https://img.shields.io/cdnjs/v/reactstrap.svg)](https://cdnjs.com/libraries/reactstrap)
+<span style="background-color: #42A175; padding: 5px; color: white; display: block">Creative</span>
 
 #### How to reach me 📫
 
