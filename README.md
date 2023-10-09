@@ -36,5 +36,6 @@ Bart Oosten
 #### Financieel Basis Adviseur
 
 <sub> **FROM** 01-02-2018 ➡️ **UNTIL 01-09-2018** </sub>
+
 <sub> *Lindenhaeghe Opleidingen* ➕ **MBO** (Diploma Obtained)</sub>
 
