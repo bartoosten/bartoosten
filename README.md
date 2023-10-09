@@ -9,6 +9,9 @@ I believe in simplifying complex problems by adopting a conceptual mindset, real
 
 I'm convinced that designers and developers must consider each other's perspectives to achieve seamless collaboration. Utilising Design Systems and Design Tokens, we can unite teams and create outstanding, functional products together.
 
+### Personal Keywords
+<span style="background-color: #42A175; padding: 5px; color: white;">Creative</span>
+
 #### How to reach me 📫
 
 You can reach me on LinkedIn, Twiiter and Github, I am always open to networking and discussing potential opportunities, so don't hesitate to reach out.
