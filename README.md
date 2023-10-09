@@ -69,5 +69,19 @@ Bart Oosten
 <sub> **FROM** 01-09-2002 ➡️ **UNTIL** 01-09-2008 </sub> <br>
 <sub> *Copernicus SG* ➕ **HAVO** (Diploma Obtained)</sub>
 
+-----------
 
+### Skills & Tools
+> *We shape our tools, and thereafter our tools shape us*
 
+#### Personal Keywords
+> **creative** ➕ **organised** ➕ **calm** ➕ **meticulous** ➕ **preceptive** ➕ **sincere** ➕ **conceptual-minded**
+
+#### Personal Keywords
+> **creative** ➕ **organised** ➕ **calm** ➕ **meticulous** ➕ **preceptive** ➕ **sincere** ➕ **conceptual-minded**
+
+#### Personal Keywords
+> **creative** ➕ **organised** ➕ **calm** ➕ **meticulous** ➕ **preceptive** ➕ **sincere** ➕ **conceptual-minded**
+
+#### Personal Keywords
+> **creative** ➕ **organised** ➕ **calm** ➕ **meticulous** ➕ **preceptive** ➕ **sincere** ➕ **conceptual-minded**
