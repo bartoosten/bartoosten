@@ -31,6 +31,9 @@ Bart Oosten
 ---
 
 ### Education & Courses
+> *Formal education often stifled creativity and individuality, but I survived.*
+
+#### Financieel Basis Adviseur
 
 #### Port of Rotterdam - Port Insider
 
