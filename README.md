@@ -75,18 +75,19 @@ Bart Oosten
 > *We shape our tools, and thereafter our tools shape us*
 
 #### Front-End Development
-> **TypeScript** ➕ **React** ➕ **Hooks** ➕ **Styled-Components** ➕ **GraphQL** ➕ **Apollo** ➕ **Recoil**
-> **Storybook** ➕ **Formik** ➕ **Cypress** ➕ **Jest** ➕ **JavaScript** ➕ **HTML** ➕ **CSS**
+> **TypeScript** ➕ **React** ➕ **Hooks** ➕ **Styled-Components** ➕ **GraphQL** ➕ **Apollo** ➕ **Recoil** ➕
+> **Storybook** ➕ **Formik** ➕ **Cypress** ➕ **Jest** ➕ **JavaScript** ➕ **HTML** ➕ **CSS** ➕
 > **Tailwind** ➕ **MUI** ➕ **Jira**
 
 #### UI Design System Development
-> **creative** ➕ **organised** ➕ **calm** ➕ **meticulous** ➕ **preceptive** ➕ **sincere** ➕ **conceptual-minded**
+> **Figma** ➕ **Atom Design Patterns** ➕ **Auto Layout** ➕ **Prototyping** ➕ **Design Sessions** ➕ **Having Dialogue** ➕
+> **Indesign** ➕ **Formik** ➕ **Confluence** ➕ **Jira** ➕ **Wire-Framing** ➕ **Sketch**
 
 #### Native App Development
-> **creative** ➕ **organised** ➕ **calm** ➕ **meticulous** ➕ **preceptive** ➕ **sincere** ➕ **conceptual-minded**
+> **React Native** ➕ **Expo** ➕ **EAS** ➕ **Push Notifications** ➕ **Location Sharing** ➕ **Google Maps** ➕ **Victory**
 
 #### Backend Development
-> **creative** ➕ **organised** ➕ **calm** ➕ **meticulous** ➕ **preceptive** ➕ **sincere** ➕ **conceptual-minded**
+> **NestJS** ➕ **Supabase** ➕ **Auth0** ➕ **AWS** ➕ **Dynamo DB** ➕ **S3** ➕ **MongoDB**
 
-#### Backend Development
-> **creative** ➕ **organised** ➕ **calm** ➕ **meticulous** ➕ **preceptive** ➕ **sincere** ➕ **conceptual-minded**
+#### AI Development
+> **OpenAI** ➕ **Chat Completion** ➕ **Text Completion** ➕ **Embeddings** ➕ **Whisper** ➕ **Dalle-3** ➕ **MidJourney** + **LangChain**
